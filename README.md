@@ -1,2 +1,3 @@
 # RelatorioIA
 Auxilio Engenharia na criação de relátorios pós visitas tecnicas, apenas dizer resumido oque ocorreu e a IA irá fazer seu papel.
+Forma de usar -> 1 Passo : Baixar a Pasta "relatorios_ia", ela terá os arquivos necessários (Excel e Word) para a automação, após isso. Preencher a planilha "Relatorio_IA" em cada campo correspondente, após isso, pode salvar normalmente e depois ir até o arquivo "app.py", o arquivo será executado e nisso irá solicitar qual planilha para puxar os dados e o modelo que será colocado os dados "melhorados" e será criado após executar, o arquivo "Relatorio_1".
